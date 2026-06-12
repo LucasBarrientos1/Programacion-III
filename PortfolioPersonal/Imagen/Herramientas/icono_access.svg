@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="64" height="64">
+  <rect width="24" height="24" rx="4" fill="#b71c1c"/>
+  <text x="12" y="10" font-size="5.5" font-family="sans-serif" font-weight="bold" fill="white" text-anchor="middle">Access</text>
+  <!-- simplified DB icon -->
+  <ellipse cx="12" cy="14" rx="5" ry="2" fill="none" stroke="white" stroke-width="1"/>
+  <line x1="7" y1="14" x2="7" y2="18" stroke="white" stroke-width="1"/>
+  <line x1="17" y1="14" x2="17" y2="18" stroke="white" stroke-width="1"/>
+  <ellipse cx="12" cy="18" rx="5" ry="2" fill="none" stroke="white" stroke-width="1"/>
+</svg>

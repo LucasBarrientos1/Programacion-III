@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="64" height="64">
+  <rect width="24" height="24" rx="4" fill="#00695c"/>
+  <text x="12" y="10" font-size="6" font-family="monospace" font-weight="bold" fill="white" text-anchor="middle">My</text>
+  <text x="12" y="18" font-size="6" font-family="monospace" font-weight="bold" fill="#4db6ac" text-anchor="middle">SQL</text>
+  <path fill="#4db6ac" d="M6 12 Q12 10 18 12 Q12 14 6 12z"/>
+</svg>
